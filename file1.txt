@@ -1,2 +1,3 @@
 This is file1
 line1
+Some changes in future_branch1
